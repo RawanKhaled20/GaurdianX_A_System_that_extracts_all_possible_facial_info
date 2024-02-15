@@ -1,0 +1,13 @@
+Good one - Sentiment: Positive
+I like it - Sentiment: Positive
+so bad - Sentiment: Positive
+very bad - Sentiment: Negative
+i hate it - Sentiment: Negative
+keep that up - Sentiment: Neutral
+so far so good - Sentiment: Positive
+It has so much errors - Sentiment: Positive
+it is so buggy - Sentiment: Positive
+it has many errors - Sentiment: Positive
+good but buggy - Sentiment: Positive
+please fix it - Sentiment: Negative
+please fix those errors - Sentiment: Negative
