@@ -1,3 +1,7 @@
+GuardianX is a smart system prototype designed using AI_based technology (Tensorflow and goolge colab and kaggle) to train multiple models to work on facial info extraction like (Drowsiness state through opened/closed eyes, emotional states (happy, sad, angry, surprised, neutral), age range (young, middel, old), gender (female or male), yawning or no yawning, masks on or not.
+
+This model can be used in humonoid robots to provide them with emotional intellegence or in smart driving systmes as a guide for you while driving.
+
 To be able to Use this system fisrt you have to download all the .h5 models files for the face extraction and the .plk file for sentiments analysis , also the response files as they are alamrs produced for guding you.
 
 secondly, save all the downlaoded models files to the working directory and copy the python code in the main.py to any python IDE (I used pycharm) to run the code and make sure you pip install all the following libraries (tensorflow, opencv-python, numpy, matplotlib, ultralytics, pygame, tkinter, nltk, cvzone, scikit-learn)
