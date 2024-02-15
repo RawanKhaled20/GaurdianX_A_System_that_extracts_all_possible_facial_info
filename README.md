@@ -1,4 +1,4 @@
-GuardianX is a smart system prototype designed using AI_based technology (Tensorflow and goolge colab and kaggle) to train multiple models to work on facial info extraction like (Drowsiness state through opened/closed eyes, emotional states (happy, sad, angry, surprised, neutral), age range (young, middel, old), gender (female or male), yawning or no yawning, masks on or not.
+GuardianX is a smart system prototype designed using AI_based technology (Tensorflow and goolge colab and kaggle) to train multiple models to work on facial info extraction like (Drowsiness state through opened/closed eyes, emotional states (happy, sad, angry, surprised, neutral), age range (young, middel, old), gender (female or male), yawning or no yawning, masks on or not and lastly asks you on your feedback and analyze the sentimnets(positive, negative, neutral) to make the best out of people opinions.
 
 This model can be used in humonoid robots to provide them with emotional intellegence or in smart driving systmes as a guide for you while driving.
 
